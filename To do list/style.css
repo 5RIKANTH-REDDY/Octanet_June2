@@ -7,7 +7,7 @@
 body {
     background-color: rgba(51, 23, 209, 0.814);
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Dai Banna SIL', serif;
     min-height: 100vh;
 }
 h1{
@@ -64,7 +64,7 @@ form button:hover {
 }
 .todo-input{
     text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Dai Banna SIL', serif;
  margin-right: 8px;
 }
 
@@ -168,7 +168,7 @@ select {
 }
 
 .priority-select {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Dai Banna SIL', serif;
     font-size: 16px;
     color: #FF8551;
     width: 8rem;
@@ -209,12 +209,12 @@ select {
     color: #FF8551;
 }
 .filter-todo{
-    font-family: 'Montserrat', sans-serif;
+   font-family: 'Dai Banna SIL', serif;
 }
 .date-input{
     font-size: 24px;
     color: #FF8551;
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Dai Banna SIL', serif;
     position: relative;
     bottom: 3PX;
 }
